@@ -1,21 +1,21 @@
 {
-  "name": "browser-request",
-  "version": "0.3.2",
+  "name": "xmlhttp-request",
+  "version": "0.4.0",
   "author": {
-    "name": "Jason Smith",
-    "email": "jhs@iriscouch.com"
+    "name": "Matthisk Heimensen",
+    "email": "m@tthisk.nl"
   },
-  "description": "Browser port of the Node.js 'request' package",
+  "description": "XMLHttpRequest port of the Node.js 'request' package (compatible with React Native)",
   "keywords": [
     "request",
     "http",
     "browser",
     "browserify"
   ],
-  "homepage": "http://github.com/iriscouch/browser-request",
+  "homepage": "http://github.com/matthisk/xmlhttp-request",
   "repository": {
     "type": "git",
-    "url": "git://github.com/iriscouch/browser-request"
+    "url": "git://github.com/matthisk/xmlhttp-request"
   },
   "scripts": {
     "test": "beefy test.js"
@@ -27,19 +27,5 @@
   },
   "engines": [
     "node"
-  ],
-  "testling": {
-    "files": "test.js",
-    "browsers": [
-      "ie/6..latest",
-      "firefox/3..5",
-      "firefox/19..nightly",
-      "chrome/4..7",
-      "chrome/24..canary",
-      "opera/10..next",
-      "safari/4..latest",
-      "iphone/6",
-      "ipad/6"
-    ]
-  }
+  ]
 }
