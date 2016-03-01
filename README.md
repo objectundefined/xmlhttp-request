@@ -1,5 +1,7 @@
 # Browser Request: The easiest HTTP library you'll ever see
 
+Note this is a fork of jhs' [browser-request](https://github.com/iriscouch/browser-request) compatible with IE8 and React Native.
+
 Browser Request is a port of Mikeal Rogers's ubiquitous and excellent [request][req] package to the browser.
 
 Jealous of Node.js? Pining for clever callbacks? Request is for you.
