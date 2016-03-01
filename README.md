@@ -1,4 +1,4 @@
-# Browser Request: The easiest HTTP library you'll ever see
+# Node request implemented with XMLHttpRequest
 
 Note this is a fork of jhs' [browser-request](https://github.com/iriscouch/browser-request) compatible with IE8 and React Native.
 
